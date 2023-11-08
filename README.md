@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adriana-Kozlowska
-- 👀 I’m interested in business, data, traveling
+- 👋 Hi there
+- 👀 I’m into business, data, traveling
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate - idk yet, just a begginer in SQL
+- 💞️ I’m looking to be a part of something bigger
 - 📫 How to reach me - send me an message via LinkedIn
 
 <!---
