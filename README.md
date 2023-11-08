@@ -1,8 +1,8 @@
-- 👋 Hi there
-- 👀 I’m into business, data, traveling
+
+- 👀 I’m into business, data, creating customer expierience
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to be a part of something bigger
-- 📫 How to reach me - send me a message via LinkedIn
+
 
 <!---
 Adriana-Kozlowska/Adriana-Kozlowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
